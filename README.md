@@ -5,9 +5,9 @@ TerraTech: Genesis aims on building upon the exploration and adventure aspects o
 
  
 
-100+ New, unique Biomes
-150+ exciting, peaceful, and dangerous mobs
-New blocks, gear, items, tools, and so much more!
+                                                  100+ New, unique Biomes
+                                        150+ exciting, peaceful, and dangerous mobs
+                                      New blocks, gear, items, tools, and so much more!
  
 
 We also hope to create a welcoming, accepting community in which you are able to share your experiences and enjoy your worlds with the knowledge that there are people able to help, make suggestions, and support you! The project was originally focused on world generation, so it contains mods like Terraforged and Biomes O' Plenty. It has expanded to contain new structures, mobs, and cave generation! As there is not much magic (which will be included in TerraTech 2), this modpack is focused on adding to vanilla Minecraft with little quests and RPG related features, with more focus on world generation and mobs. Enjoy!
