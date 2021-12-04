@@ -31,3 +31,6 @@ The Epic Fight Mod is not compatible with Spartan Shields, Spartan Weaponry, and
  
 
 Please contact me or comment if you have any questions or suggestions!
+
+
+Most important of all, have fun! 
